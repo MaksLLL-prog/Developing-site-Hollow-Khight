@@ -3,7 +3,7 @@
 https://makslll-prog.github.io/Developing-site-Hollow-Khight/
 
 This is a **fan-made recreation** of the official *Hollow Knight: Silksong* website, built for educational and portfolio purposes.  
-It reproduces the visual style, layout, and mood of Team Cherry’s official design.
+It reproduces the visual style, layout, and mood of Team Cherry’s official design..
 
 ---
 
