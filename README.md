@@ -17,6 +17,23 @@ It reproduces the visual style, layout, and mood of Team Cherry’s official des
 
 ---
 
+
+## 🧭 Project Structure (Mermaid)
+
+```mermaid
+flowchart TD
+    A[assets/] --> A1(images/)
+    A --> A2(video/)
+    B[scripts/] --> B1(scripts.js)
+    C[site/] --> C1(index.html)
+    D[styles/] --> D1(styles.css)
+    D --> D2(reset.css)
+
+    A --- C
+    B --- C
+    D --- C
+
+
 ## 🗂️ Project Structure
 project-root/
 │
@@ -55,5 +72,6 @@ git clone https://github.com/yourusername/silksong-clone.git
 cd silksong-clone
 git checkout develop
 start site/index.html.
+
 
 Разработчики - Барсков Максим, Жуков Павел, Девляшкин Никита
