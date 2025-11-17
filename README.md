@@ -57,7 +57,7 @@ gantt
 ## 🗂️ Project Structure
 
 
-project-root/
+``` project-root/
 │
 ├── assets/
 │ ├── image/ # Site images (webp)
@@ -76,6 +76,7 @@ project-root/
 │
 ├── LICENSE # License file
 └── README.md # Documentation (this file)
+```
 
 
 ---
@@ -94,9 +95,14 @@ git clone https://github.com/yourusername/silksong-clone.git
 cd silksong-clone
 git checkout develop
 start site/index.html.
+```
 
 
-Разработчики - Барсков Максим, Жуков Павел, Девляшкин Никита
+``` Разработчики:
+Барсков Максим - разработчик JS-части
+Жуков Павел - тимлидер,  разработчик JS-части
+Девляшкин Никита - разработчки HTML и дизайна сайта.
+
 
 
 
