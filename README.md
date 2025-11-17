@@ -109,13 +109,13 @@ git checkout develop
 start site/index.html.
 ```
 
-## Developer:
+## Team
 
-``` Разработчики:
-Барсков Максим - разработчик JS-части
-Жуков Павел - тимлидер,  разработчик JS-части
-Девляшкин Никита - разработчки HTML и дизайна сайта.
-```
+- **Maksim Barskov** – JS Developer. (https://github.com/Komaru286) 
+- **Pavel Zhukov** – Team Lead, JS Developer. (https://github.com/MaksLLL-prog)
+- **Nikita Devlyashkin** – HTML & Website Design Developer. (https://github.com/nikitttttttt)
+
+
 
 
 
