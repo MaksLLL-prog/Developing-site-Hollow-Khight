@@ -54,6 +54,18 @@ gantt
     Optimize loading       :a6, 2025-01-13, 2d
 ```
 
+## 🔀 User Flow
+
+```mermaid
+flowchart LR
+    A[Home Page] --> B[Play Video]
+    A --> C[Open Menu]
+    C --> D[Characters]
+    C --> E[Gameplay]
+    C --> F[Lore]
+    F --> G[External Link]
+```
+
 ## 🗂️ Project Structure
 
 
@@ -81,7 +93,7 @@ gantt
 
 ---
 
-## 🧠 Technologies
+## 🧠 Technologies:
 - **HTML5** – structure  
 - **CSS3 (Flexbox + Grid)** – layout and responsiveness  
 - **JavaScript (Vanilla)** – dynamic interactivity  
@@ -97,11 +109,14 @@ git checkout develop
 start site/index.html.
 ```
 
+## Developer:
 
 ``` Разработчики:
 Барсков Максим - разработчик JS-части
 Жуков Павел - тимлидер,  разработчик JS-части
 Девляшкин Никита - разработчки HTML и дизайна сайта.
+```
+
 
 
 
