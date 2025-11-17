@@ -56,3 +56,4 @@ cd silksong-clone
 git checkout develop
 start site/index.html.
 
+Разработчики - Барсков Максим, Жуков Павел, Девляшкин Никита
