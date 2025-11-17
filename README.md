@@ -34,6 +34,27 @@ flowchart TD
     D --- C
 ```
 
+№№ 🗂️ Development Plan (Gantt)
+
+```mermaid
+gantt
+    dateFormat  YYYY-MM-DD
+    title Development Plan — Hollow Knight Website
+
+    section Layout
+    Create structure       :done,    a1, 2025-01-01, 3d
+    Add animations         :active,  a2, 2025-01-04, 3d
+
+    section Content
+    Add images             :a3, 2025-01-07, 2d
+    Add text content       :a4, 2025-01-09, 2d
+
+    section Polish
+    Fix styles             :a5, 2025-01-11, 2d
+    Optimize loading       :a6, 2025-01-13, 2d
+```
+
+
 ## 🗂️ Project Structure
 project-root/
 │
@@ -75,4 +96,5 @@ start site/index.html.
 
 
 Разработчики - Барсков Максим, Жуков Павел, Девляшкин Никита
+
 
