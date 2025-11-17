@@ -54,8 +54,9 @@ gantt
     Optimize loading       :a6, 2025-01-13, 2d
 ```
 
----
 ## 🗂️ Project Structure
+
+
 project-root/
 │
 ├── assets/
@@ -63,7 +64,7 @@ project-root/
 │ └── video/ # Background videos and trailer
 │
 ├── scripts/
-│ └── sripts.js # Main script file
+│ └── scripts.js # Main script file
 │
 ├── site/
 │ └── index.html # Section layout for Silksong copy
@@ -75,7 +76,7 @@ project-root/
 │
 ├── LICENSE # License file
 └── README.md # Documentation (this file)
----
+
 
 ---
 
@@ -96,6 +97,7 @@ start site/index.html.
 
 
 Разработчики - Барсков Максим, Жуков Павел, Девляшкин Никита
+
 
 
 
