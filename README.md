@@ -34,7 +34,7 @@ flowchart TD
     D --- C
 ```
 
-№№ 🗂️ Development Plan (Gantt)
+## 🗂️ Development Plan (Gantt)
 
 ```mermaid
 gantt
@@ -54,7 +54,7 @@ gantt
     Optimize loading       :a6, 2025-01-13, 2d
 ```
 
-
+---
 ## 🗂️ Project Structure
 project-root/
 │
@@ -75,7 +75,7 @@ project-root/
 │
 ├── LICENSE # License file
 └── README.md # Documentation (this file)
-
+---
 
 ---
 
@@ -96,5 +96,6 @@ start site/index.html.
 
 
 Разработчики - Барсков Максим, Жуков Павел, Девляшкин Никита
+
 
 
